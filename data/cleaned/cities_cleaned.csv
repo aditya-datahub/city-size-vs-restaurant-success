@@ -1,0 +1,296 @@
+city_clean,state_clean,population,city_tier
+mumbai,maharashtra,11978450.0,Tier 1
+delhi,delhi,9879172.0,Tier 1
+bangalore,karnataka,4301326.0,Tier 1
+hyderabad,telangana,3637483.0,Tier 1
+ahmedabad,gujarat,3520085.0,Tier 1
+chennai,tamil nadu,4343645.0,Tier 1
+kolkata,west bengal,4572876.0,Tier 1
+surat,gujarat,2433835.0,Tier 1
+pune,maharashtra,2538473.0,Tier 1
+jaipur,rajasthan,2322575.0,Tier 1
+lucknow,uttar pradesh,2185927.0,Tier 1
+kanpur,uttar pradesh,2551337.0,Tier 1
+nagpur,maharashtra,2052066.0,Tier 1
+indore,madhya pradesh,1474968.0,Tier 1
+thane,maharashtra,1262551.0,Tier 1
+bhopal,madhya pradesh,1437354.0,Tier 1
+visakhapatnam,andhra pradesh,1345938.0,Tier 1
+pimprichinchwad,maharashtra,1012472.0,Tier 1
+patna,bihar,1366444.0,Tier 1
+vadodara,gujarat,1306227.0,Tier 1
+ghaziabad,uttar pradesh,968256.0,Tier 2
+ludhiana,punjab,1398467.0,Tier 1
+agra,uttar pradesh,1275134.0,Tier 1
+nashik,maharashtra,1077236.0,Tier 1
+ranchi,jharkhand,1079968.0,Tier 1
+faridabad,haryana,1055938.0,Tier 1
+meerut,uttar pradesh,1039405.0,Tier 1
+rajkot,gujarat,967476.0,Tier 2
+kalyandombivli,maharashtra,1193512.0,Tier 1
+vasaivirar,maharashtra,693350.0,Tier 2
+varanasi,uttar pradesh,1091918.0,Tier 1
+srinagar,jammu and kashmir,898440.0,Tier 2
+aurangabad,maharashtra,873311.0,Tier 2
+dhanbad,jharkhand,1065327.0,Tier 1
+amritsar,punjab,966862.0,Tier 2
+allahabad,uttar pradesh,975393.0,Tier 2
+howrah,west bengal,1007532.0,Tier 1
+gwalior,madhya pradesh,827026.0,Tier 2
+jabalpur,madhya pradesh,932484.0,Tier 2
+coimbatore,tamil nadu,930882.0,Tier 2
+vijayawada,andhra pradesh,851282.0,Tier 2
+jodhpur,rajasthan,851051.0,Tier 2
+madurai,tamil nadu,928869.0,Tier 2
+raipur,chhattisgarh,605747.0,Tier 2
+kota,rajasthan,694316.0,Tier 2
+chandigarh,chandigarh,808515.0,Tier 2
+guwahati,assam,809895.0,Tier 2
+solapur,maharashtra,872478.0,Tier 2
+hublidharwad,karnataka,786195.0,Tier 2
+mysore,karnataka,762408.0,Tier 2
+tiruchirappalli,tamil nadu,752066.0,Tier 2
+bareilly,uttar pradesh,718395.0,Tier 2
+aligarh,uttar pradesh,672315.0,Tier 2
+tiruppur,tamil nadu,344543.0,Tier 3
+gurgaon,haryana,173542.0,Tier 3
+moradabad,uttar pradesh,669087.0,Tier 2
+jalandhar,punjab,706043.0,Tier 2
+bhubaneswar,odisha,648032.0,Tier 2
+salem,tamil nadu,696760.0,Tier 2
+warangal,telangana,530636.0,Tier 2
+mirabhayandar,maharashtra,520388.0,Tier 2
+jalgaon,maharashtra,462280.0,Tier 3
+guntur,andhra pradesh,514461.0,Tier 2
+thiruvananthapuram,kerala,368618.0,Tier 3
+bhiwandi,maharashtra,598741.0,Tier 2
+saharanpur,uttar pradesh,455754.0,Tier 3
+gorakhpur,uttar pradesh,622701.0,Tier 2
+bikaner,rajasthan,529690.0,Tier 2
+amravati,maharashtra,549510.0,Tier 2
+noida,uttar pradesh,305058.0,Tier 3
+jamshedpur,jharkhand,573096.0,Tier 2
+bhilai,chhattisgarh,556366.0,Tier 2
+cuttack,odisha,534654.0,Tier 2
+firozabad,uttar pradesh,279102.0,Tier 3
+kochi,kerala,596473.0,Tier 2
+nellore,andhra pradesh,378428.0,Tier 3
+bhavnagar,gujarat,511085.0,Tier 2
+dehradun,uttarakhand,426674.0,Tier 3
+durgapur,west bengal,493405.0,Tier 3
+asansol,west bengal,475439.0,Tier 3
+rourkela,odisha,426354.0,Tier 3
+nanded,maharashtra,430733.0,Tier 3
+kolhapur,maharashtra,493167.0,Tier 3
+ajmer,rajasthan,485575.0,Tier 3
+akola,maharashtra,400520.0,Tier 3
+gulbarga,karnataka,422569.0,Tier 3
+jamnagar,gujarat,443518.0,Tier 3
+ujjain,madhya pradesh,430427.0,Tier 3
+loni,uttar pradesh,120945.0,Tier 3
+siliguri,west bengal,472374.0,Tier 3
+jhansi,uttar pradesh,383644.0,Tier 3
+ulhasnagar,maharashtra,473731.0,Tier 3
+jammu,jammu and kashmir,369959.0,Tier 3
+sanglimiraj kupwad,maharashtra,436781.0,Tier 3
+mangalore,karnataka,399565.0,Tier 3
+erode,tamil nadu,173600.0,Tier 3
+belgaum,karnataka,399653.0,Tier 3
+kurnool,andhra pradesh,345987.0,Tier 3
+ambattur,tamil nadu,310967.0,Tier 3
+rajahmundry,andhra pradesh,315251.0,Tier 3
+tirunelveli,tamil nadu,411831.0,Tier 3
+malegaon,maharashtra,409403.0,Tier 3
+gaya,bihar,385432.0,Tier 3
+udaipur,rajasthan,389438.0,Tier 3
+karur,tamil nadu,158955.0,Tier 3
+kakinada,andhra pradesh,325985.0,Tier 3
+davanagere,karnataka,364523.0,Tier 3
+kozhikode,kerala,436556.0,Tier 3
+maheshtala,west bengal,385266.0,Tier 3
+rajpur sonarpur,west bengal,336707.0,Tier 3
+bokaro,jharkhand,393805.0,Tier 3
+south dumdum,west bengal,392444.0,Tier 3
+bellary,karnataka,316766.0,Tier 3
+patiala,punjab,303151.0,Tier 3
+gopalpur,west bengal,271811.0,Tier 3
+agartala,tripura,271811.0,Tier 3
+bhagalpur,bihar,340767.0,Tier 3
+muzaffarnagar,uttar pradesh,316729.0,Tier 3
+bhatpara,west bengal,442385.0,Tier 3
+panihati,west bengal,348438.0,Tier 3
+latur,maharashtra,299985.0,Tier 3
+dhule,maharashtra,341755.0,Tier 3
+rohtak,haryana,286807.0,Tier 3
+sagar,madhya pradesh,232133.0,Tier 3
+korba,chhattisgarh,315690.0,Tier 3
+bhilwara,rajasthan,280128.0,Tier 3
+berhampur,odisha,307792.0,Tier 3
+muzaffarpur,bihar,305525.0,Tier 3
+ahmednagar,maharashtra,307615.0,Tier 3
+mathura,uttar pradesh,302770.0,Tier 3
+kollam,kerala,361560.0,Tier 3
+avadi,tamil nadu,229403.0,Tier 3
+kadapa,andhra pradesh,125725.0,Tier 3
+anantapuram,andhra pradesh,255134.0,Tier 3
+kamarhati,west bengal,314507.0,Tier 3
+bilaspur,chhattisgarh,296662.0,Tier 3
+sambalpur,odisha,274917.0,Tier 3
+shahjahanpur,uttar pradesh,296662.0,Tier 3
+satara,maharashtra,228175.0,Tier 3
+bijapur,karnataka,228175.0,Tier 3
+rampur,uttar pradesh,281494.0,Tier 3
+shimoga,karnataka,274352.0,Tier 3
+chandrapur,maharashtra,289450.0,Tier 3
+junagadh,gujarat,168686.0,Tier 3
+thrissur,kerala,317526.0,Tier 3
+alwar,rajasthan,260593.0,Tier 3
+bardhaman,west bengal,285602.0,Tier 3
+kulti,west bengal,289903.0,Tier 3
+nizamabad,telangana,288722.0,Tier 3
+parbhani,maharashtra,259329.0,Tier 3
+tumkur,karnataka,248929.0,Tier 3
+khammam,telangana,218689.0,Tier 3
+uzhavarkarai,puducherry,217707.0,Tier 3
+bihar sharif,bihar,232071.0,Tier 3
+panipat,haryana,261740.0,Tier 3
+darbhanga,bihar,267348.0,Tier 3
+bally,west bengal,260906.0,Tier 3
+aizawl,mizoram,228280.0,Tier 3
+dewas,madhya pradesh,231672.0,Tier 3
+ichalkaranji,maharashtra,257610.0,Tier 3
+karnal,haryana,210476.0,Tier 3
+bathinda,punjab,217256.0,Tier 3
+jalna,maharashtra,235795.0,Tier 3
+eluru,andhra pradesh,190347.0,Tier 3
+barasat,west bengal,231515.0,Tier 3
+kirari suleman nagar,delhi,153874.0,Tier 3
+purnia,bihar,171687.0,Tier 3
+satna,madhya pradesh,225464.0,Tier 3
+mau,uttar pradesh,212657.0,Tier 3
+sonipat,haryana,214974.0,Tier 3
+farrukhabad,uttar pradesh,228333.0,Tier 3
+durg,chhattisgarh,232517.0,Tier 3
+imphal,manipur,221492.0,Tier 3
+ratlam,madhya pradesh,222202.0,Tier 3
+hapur,uttar pradesh,211983.0,Tier 3
+arrah,bihar,203380.0,Tier 3
+anantapur,andhra pradesh,218808.0,Tier 3
+karimnagar,telangana,205653.0,Tier 3
+etawah,uttar pradesh,210453.0,Tier 3
+ambarnath,maharashtra,203795.0,Tier 3
+north dumdum,west bengal,220042.0,Tier 3
+bharatpur,rajasthan,204587.0,Tier 3
+begusarai,bihar,93378.0,Tier 3
+gandhidham,gujarat,166388.0,Tier 3
+baranagar,west bengal,250768.0,Tier 3
+tiruvottiyur,tamil nadu,212281.0,Tier 3
+pondicherry,puducherry,220749.0,Tier 3
+sikar,rajasthan,184904.0,Tier 3
+thoothukudi,tamil nadu,216058.0,Tier 3
+rewa,madhya pradesh,183274.0,Tier 3
+mirzapur,uttar pradesh,205053.0,Tier 3
+raichur,karnataka,207421.0,Tier 3
+pali,rajasthan,187641.0,Tier 3
+ramagundam,telangana,236600.0,Tier 3
+silchar,assam,184105.0,Tier 3
+haridwar,uttarakhand,175010.0,Tier 3
+vijayanagaram,andhra pradesh,174324.0,Tier 3
+tenali,andhra pradesh,184937.0,Tier 3
+nagercoil,tamil nadu,208179.0,Tier 3
+sri ganganagar,rajasthan,210713.0,Tier 3
+karawal nagar,delhi,148549.0,Tier 3
+mango,jharkhand,166125.0,Tier 3
+thanjavur,tamil nadu,215314.0,Tier 3
+bulandshahr,uttar pradesh,176425.0,Tier 3
+uluberia,west bengal,202135.0,Tier 3
+katni,madhya pradesh,187029.0,Tier 3
+sambhal,uttar pradesh,182478.0,Tier 3
+singrauli,madhya pradesh,185190.0,Tier 3
+nadiad,gujarat,192913.0,Tier 3
+secunderabad,telangana,206102.0,Tier 3
+naihati,west bengal,215303.0,Tier 3
+yamunanagar,haryana,189696.0,Tier 3
+bidhannagar,west bengal,164221.0,Tier 3
+pallavaram,tamil nadu,144623.0,Tier 3
+bidar,karnataka,172877.0,Tier 3
+munger,bihar,188050.0,Tier 3
+panchkula,haryana,140925.0,Tier 3
+burhanpur,madhya pradesh,193725.0,Tier 3
+kharagpur,west bengal,188761.0,Tier 3
+dindigul,tamil nadu,196955.0,Tier 3
+gandhinagar,gujarat,195985.0,Tier 3
+hospet,karnataka,164240.0,Tier 3
+nangloi jat,delhi,150948.0,Tier 3
+malda,west bengal,161456.0,Tier 3
+ongole,andhra pradesh,150471.0,Tier 3
+deoghar,jharkhand,112525.0,Tier 3
+chhapra,bihar,79190.0,Tier 3
+puri,odisha,152682.0,Tier 3
+haldia,west bengal,170673.0,Tier 3
+khandwa,madhya pradesh,172242.0,Tier 3
+nandyal,andhra pradesh,152676.0,Tier 3
+morena,madhya pradesh,150959.0,Tier 3
+amroha,uttar pradesh,165129.0,Tier 3
+anand,gujarat,130685.0,Tier 3
+bhind,madhya pradesh,153752.0,Tier 3
+bhalswa jahangir pur,delhi,152339.0,Tier 3
+madhyamgram,west bengal,155451.0,Tier 3
+bhiwani,haryana,169531.0,Tier 3
+berhampore,west bengal,160143.0,Tier 3
+ambala,haryana,139279.0,Tier 3
+morbi,gujarat,145719.0,Tier 3
+fatehpur,uttar pradesh,151757.0,Tier 3
+raebareli,uttar pradesh,169333.0,Tier 3
+chittoor,andhra pradesh,152654.0,Tier 3
+bhusawal,maharashtra,172372.0,Tier 3
+orai,uttar pradesh,139318.0,Tier 3
+bahraich,uttar pradesh,168323.0,Tier 3
+phusro,jharkhand,83463.0,Tier 3
+vellore,tamil nadu,177230.0,Tier 3
+mehsana,gujarat,141453.0,Tier 3
+raiganj,west bengal,165212.0,Tier 3
+sirsa,haryana,160735.0,Tier 3
+danapur,bihar,131176.0,Tier 3
+serampore,west bengal,197857.0,Tier 3
+sultan pur majra,delhi,164426.0,Tier 3
+guna,madhya pradesh,137175.0,Tier 3
+jaunpur,uttar pradesh,160055.0,Tier 3
+panvel,maharashtra,104058.0,Tier 3
+shivpuri,madhya pradesh,146892.0,Tier 3
+surendranagar dudhrej,gujarat,156161.0,Tier 3
+unnao,uttar pradesh,144662.0,Tier 3
+chinsurah,west bengal,170201.0,Tier 3
+alappuzha,kerala,177029.0,Tier 3
+kottayam,kerala,129894.0,Tier 3
+machilipatnam,andhra pradesh,179353.0,Tier 3
+shimla,himachal pradesh,142555.0,Tier 3
+midnapore,west bengal,149768.0,Tier 3
+katihar,bihar,115169.0,Tier 3
+proddatur,andhra pradesh,86896.0,Tier 3
+budaun,uttar pradesh,148029.0,Tier 3
+saharsa,bihar,125167.0,Tier 3
+dibrugarh,assam,137661.0,Tier 3
+jorhat,assam,112026.0,Tier 3
+hazaribagh,jharkhand,127243.0,Tier 3
+nagaon,assam,123265.0,Tier 3
+hajipur,bihar,119412.0,Tier 3
+sasaram,bihar,131172.0,Tier 3
+kumbakonam,tamil nadu,144021.0,Tier 3
+bongaigaon,assam,101213.0,Tier 3
+dehri,bihar,119057.0,Tier 3
+siwan,bihar,109919.0,Tier 3
+bettiah,bihar,116670.0,Tier 3
+ramgarh,jharkhand,73455.0,Tier 3
+tinsukia,assam,101957.0,Tier 3
+motihari,bihar,100683.0,Tier 3
+hosur,tamil nadu,102000.0,Tier 3
+suryapet,telangana,94585.0,Tier 3
+miryalaguda,telangana,91395.0,Tier 3
+karaikudi,tamil nadu,86596.0,Tier 3
+kishanganj,bihar,85590.0,Tier 3
+jamalpur,bihar,96983.0,Tier 3
+buxar,bihar,83168.0,Tier 3
+tezpur,assam,83028.0,Tier 3
+jehanabad,bihar,81503.0,Tier 3
+gangtok,sikkim,29354.0,Tier 3
