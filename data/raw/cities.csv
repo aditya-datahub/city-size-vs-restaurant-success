@@ -1,0 +1,323 @@
+Rank,City,Population(2001),State or union territory
+1,Mumbai,"1,19,78,450",Maharashtra
+2,Delhi,"98,79,172",Delhi
+3,Bangalore,"43,01,326",Karnataka
+4,Hyderabad,"36,37,483",Telangana
+5,Ahmedabad,"35,20,085",Gujarat
+6,Chennai,"43,43,645",Tamil Nadu
+7,Kolkata,"45,72,876",West Bengal
+8,Surat,"24,33,835",Gujarat
+9,Pune,"25,38,473",Maharashtra
+10,Jaipur,"23,22,575",Rajasthan
+11,Lucknow,"21,85,927",Uttar Pradesh
+12,Kanpur,"25,51,337",Uttar Pradesh
+13,Nagpur,"20,52,066",Maharashtra
+14,Indore,"14,74,968",Madhya Pradesh
+15,Thane,"12,62,551",Maharashtra
+16,Bhopal,"14,37,354",Madhya Pradesh
+17,Visakhapatnam[4],"13,45,938",Andhra Pradesh
+18,Pimpri-Chinchwad,"10,12,472",Maharashtra
+19,Patna,"13,66,444",Bihar
+20,Vadodara,"13,06,227",Gujarat
+21,Ghaziabad,"9,68,256",Uttar Pradesh
+22,Ludhiana,"13,98,467",Punjab
+23,Agra,"12,75,134",Uttar Pradesh
+24,Nashik,"10,77,236",Maharashtra
+25,Ranchi,"10,79,968",Jharkhand
+26,Faridabad,"10,55,938",Haryana
+27,Meerut,"10,39,405",Uttar Pradesh
+28,Rajkot,"9,67,476",Gujarat
+29,Kalyan-Dombivli,"11,93,512",Maharashtra
+30,Vasai-Virar,"6,93,350",Maharashtra
+31,Varanasi,"10,91,918",Uttar Pradesh
+32,Srinagar,"8,98,440",Jammu and Kashmir
+33,Aurangabad,"8,73,311",Maharashtra
+34,Dhanbad,"10,65,327",Jharkhand
+35,Amritsar,"9,66,862",Punjab
+36,Navi Mumbai,"7,04,002",Maharashtra
+37,Allahabad,"9,75,393",Uttar Pradesh
+38,Howrah,"10,07,532",West Bengal
+39,Gwalior,"8,27,026",Madhya Pradesh
+40,Jabalpur,"9,32,484",Madhya Pradesh
+41,Coimbatore,"9,30,882",Tamil Nadu
+42,Vijayawada,"8,51,282",Andhra Pradesh
+43,Jodhpur,"8,51,051",Rajasthan
+44,Madurai,"9,28,869",Tamil Nadu
+45,Raipur,"6,05,747",Chhattisgarh
+46,Kota[6],"6,94,316",Rajasthan
+47,Chandigarh,"8,08,515",Chandigarh
+48,Guwahati,"8,09,895",Assam
+49,Solapur,"8,72,478",Maharashtra
+50,Hubli–Dharwad,"7,86,195",Karnataka
+51,Mysore[7][8][9],"7,62,408",Karnataka
+52,Tiruchirappalli[10],"7,52,066",Tamil Nadu
+53,Bareilly,"7,18,395",Uttar Pradesh
+54,Aligarh,"6,72,315",Uttar Pradesh
+55,Tiruppur,"3,44,543",Tamil Nadu
+56,Gurgaon,"1,73,542",Haryana
+57,Moradabad,"6,69,087",Uttar Pradesh
+58,Jalandhar,"7,06,043",Punjab
+59,Bhubaneswar,"6,48,032",Odisha
+60,Salem,"6,96,760",Tamil Nadu
+61,Warangal[11][12],"5,30,636",Telangana
+62,Mira-Bhayandar,"5,20,388",Maharashtra
+63,Jalgaon,"4,62,280",Maharashtra
+64,Guntur[13],"5,14,461",Andhra Pradesh
+65,Thiruvananthapuram,"3,68,618",Kerala
+66,Bhiwandi,"5,98,741",Maharashtra
+67,Saharanpur,"4,55,754",Uttar Pradesh
+68,Gorakhpur,"6,22,701",Uttar Pradesh
+69,Bikaner,"5,29,690",Rajasthan
+70,Amravati,"5,49,510",Maharashtra
+71,Noida,"3,05,058",Uttar Pradesh
+72,Jamshedpur,"5,73,096",Jharkhand
+73,Bhilai,"5,56,366",Chhattisgarh
+74,Cuttack,"5,34,654",Odisha
+75,Firozabad,"2,79,102",Uttar Pradesh
+76,Kochi,"5,96,473",Kerala
+77,Nellore[14][15],"3,78,428",Andhra Pradesh
+78,Bhavnagar,"5,11,085",Gujarat
+79,Dehradun,"4,26,674",Uttarakhand
+80,Durgapur,"4,93,405",West Bengal
+81,Asansol,"4,75,439",West Bengal
+82,Rourkela,"4,26,354",Odisha
+83,Nanded,"4,30,733",Maharashtra
+84,Kolhapur,"4,93,167",Maharashtra
+85,Ajmer,"4,85,575",Rajasthan
+86,Akola,"4,00,520",Maharashtra
+87,Gulbarga,"4,22,569",Karnataka
+88,Jamnagar,"4,43,518",Gujarat
+89,Ujjain,"4,30,427",Madhya Pradesh
+90,Loni,"1,20,945",Uttar Pradesh
+91,Siliguri,"4,72,374",West Bengal
+92,Jhansi,"3,83,644",Uttar Pradesh
+93,Ulhasnagar,"4,73,731",Maharashtra
+94,Jammu[16],"3,69,959",Jammu and Kashmir
+95,Sangli-Miraj & Kupwad,"4,36,781",Maharashtra
+96,Mangalore,"3,99,565",Karnataka
+97,Erode[17],"1,73,600",Tamil Nadu
+98,Belgaum,"3,99,653",Karnataka
+99,Kurnool[18],"3,45,987",Andhra Pradesh
+100,Ambattur,"3,10,967",Tamil Nadu
+101,Rajahmundry[19][20],"3,15,251",Andhra Pradesh
+102,Tirunelveli,"4,11,831",Tamil Nadu
+103,Malegaon,"4,09,403",Maharashtra
+104,Gaya,"3,85,432",Bihar
+105,Udaipur,"3,89,438",Rajasthan
+106,Karur,"1,58,955",Tamil Nadu
+107,Kakinada,"3,25,985",Andhra Pradesh
+108,Davanagere,"3,64,523",Karnataka
+109,Kozhikode,"4,36,556",Kerala
+110,Maheshtala,"3,85,266",West Bengal
+111,Rajpur Sonarpur,"3,36,707",West Bengal
+112,Bokaro,"3,93,805",Jharkhand
+113,South Dumdum,"3,92,444",West Bengal
+114,Bellary,"3,16,766",Karnataka
+115,Patiala,"3,03,151",Punjab
+116,Gopalpur,"2,71,811",West Bengal
+117,Agartala,"2,71,811",Tripura
+118,Bhagalpur,"3,40,767",Bihar
+119,Muzaffarnagar,"3,16,729",Uttar Pradesh
+120,Bhatpara,"4,42,385",West Bengal
+121,Panihati,"3,48,438",West Bengal
+122,Latur,"2,99,985",Maharashtra
+123,Dhule,"3,41,755",Maharashtra
+124,Rohtak,"2,86,807",Haryana
+125,Sagar,"2,32,133",Madhya Pradesh
+126,Korba,"3,15,690",Chhattisgarh
+127,Bhilwara,"2,80,128",Rajasthan
+128,Berhampur,"3,07,792",Odisha
+129,Muzaffarpur,"3,05,525",Bihar
+130,Ahmednagar,"3,07,615",Maharashtra
+131,Mathura,"3,02,770",Uttar Pradesh
+132,Kollam,"3,61,560",Kerala
+133,Avadi,"2,29,403",Tamil Nadu
+134,Kadapa[21],"1,25,725",Andhra Pradesh
+135,Anantapuram[21],"2,55,134",Andhra Pradesh
+136,Kamarhati,"3,14,507",West Bengal
+137,Bilaspur,"2,96,662",Chhattisgarh
+138,Sambalpur,"2,74,917",Odisha
+139,Shahjahanpur,"2,96,662",Uttar Pradesh
+140,Satara,"2,28,175",Maharashtra
+141,Bijapur,"2,28,175",Karnataka
+142,Rampur,"2,81,494",Uttar Pradesh
+143,Shimoga,"2,74,352",Karnataka
+144,Chandrapur,"2,89,450",Maharashtra
+145,Junagadh,"1,68,686",Gujarat
+146,Thrissur,"3,17,526",Kerala
+147,Alwar,"2,60,593",Rajasthan
+148,Bardhaman,"2,85,602",West Bengal
+149,Kulti,"2,89,903",West Bengal
+150,Nizamabad,"2,88,722",Telangana
+151,Parbhani,"2,59,329",Maharashtra
+152,Tumkur,"2,48,929",Karnataka
+153,Khammam,"2,18,689",Telangana
+154,Uzhavarkarai,"2,17,707",Puducherry
+155,Bihar Sharif,"2,32,071",Bihar
+156,Panipat,"2,61,740",Haryana
+157,Darbhanga,"2,67,348",Bihar
+158,Bally,"2,60,906",West Bengal
+159,Aizawl,"2,28,280",Mizoram
+160,Dewas,"2,31,672",Madhya Pradesh
+161,Ichalkaranji,"2,57,610",Maharashtra
+162,Karnal,"2,10,476",Haryana
+163,Bathinda,"2,17,256",Punjab
+164,Jalna,"2,35,795",Maharashtra
+165,Eluru[22],"1,90,347",Andhra Pradesh
+166,Barasat,"2,31,515",West Bengal
+167,Kirari Suleman Nagar,"1,53,874",Delhi
+168,Purnia[23],"1,71,687",Bihar
+169,Satna,"2,25,464",Madhya Pradesh
+170,Mau,"2,12,657",Uttar Pradesh
+171,Sonipat,"2,14,974",Haryana
+172,Farrukhabad,"2,28,333",Uttar Pradesh
+173,Durg,"2,32,517",Chhattisgarh
+174,Imphal,"2,21,492",Manipur
+175,Ratlam,"2,22,202",Madhya Pradesh
+176,Hapur,"2,11,983",Uttar Pradesh
+177,Arrah,"2,03,380",Bihar
+178,Anantapur,"2,18,808",Andhra Pradesh
+179,Karimnagar,"2,05,653",Telangana
+180,Etawah,"2,10,453",Uttar Pradesh
+181,Ambarnath,"2,03,795",Maharashtra
+182,North Dumdum,"2,20,042",West Bengal
+183,Bharatpur,"2,04,587",Rajasthan
+184,Begusarai,"93,378",Bihar
+185,New Delhi,"3,02,147",Delhi
+186,Gandhidham,"1,66,388",Gujarat
+187,Baranagar,"2,50,768",West Bengal
+188,Tiruvottiyur,"2,12,281",Tamil Nadu
+189,Pondicherry,"2,20,749",Puducherry
+190,Sikar,"1,84,904",Rajasthan
+191,Thoothukudi,"2,16,058",Tamil Nadu
+192,Rewa,"1,83,274",Madhya Pradesh
+193,Mirzapur,"2,05,053",Uttar Pradesh
+194,Raichur,"2,07,421",Karnataka
+195,Pali,"1,87,641",Rajasthan
+196,Ramagundam[24],"2,36,600",Telangana
+197,Silchar,"1,84,105",Assam
+198,Haridwar,"1,75,010",Uttarakhand
+199,Vijayanagaram,"1,74,324",Andhra Pradesh
+200,Tenali,"1,84,937",Andhra Pradesh
+201,Nagercoil,"2,08,179",Tamil Nadu
+202,Sri Ganganagar,"2,10,713",Rajasthan
+203,Karawal Nagar,"1,48,549",Delhi
+204,Mango,"1,66,125",Jharkhand
+205,Thanjavur,"2,15,314",Tamil Nadu
+206,Bulandshahr,"1,76,425",Uttar Pradesh
+207,Uluberia,"2,02,135",West Bengal
+208,Katni,"1,87,029",Madhya Pradesh
+209,Sambhal,"1,82,478",Uttar Pradesh
+210,Singrauli,"1,85,190",Madhya Pradesh
+211,Nadiad,"1,92,913",Gujarat
+212,Secunderabad,"2,06,102",Telangana
+213,Naihati,"2,15,303",West Bengal
+214,Yamunanagar,"1,89,696",Haryana
+215,Bidhannagar,"1,64,221",West Bengal
+216,Pallavaram,"1,44,623",Tamil Nadu
+217,Bidar,"1,72,877",Karnataka
+218,Munger,"1,88,050",Bihar
+219,Panchkula,"1,40,925",Haryana
+220,Burhanpur,"1,93,725",Madhya Pradesh
+221,Kharagpur,"1,88,761",West Bengal
+222,Dindigul,"1,96,955",Tamil Nadu
+223,Gandhinagar,"1,95,985",Gujarat
+224,Hospet,"1,64,240",Karnataka
+225,Nangloi Jat,"1,50,948",Delhi
+226,Malda,"1,61,456",West Bengal
+227,Ongole,"1,50,471",Andhra Pradesh
+228,Deoghar,"1,12,525",Jharkhand
+229,Chhapra,"79,190",Bihar
+230,Puri,"1,52,682",Odisha
+231,Haldia,"1,70,673",West Bengal
+232,Khandwa,"1,72,242",Madhya Pradesh
+233,Nandyal,"1,52,676",Andhra Pradesh
+234,Morena,"1,50,959",Madhya Pradesh
+235,Amroha,"1,65,129",Uttar Pradesh
+236,Anand,"1,30,685",Gujarat
+237,Bhind,"1,53,752",Madhya Pradesh
+238,Bhalswa Jahangir Pur,"1,52,339",Delhi
+239,Madhyamgram,"1,55,451",West Bengal
+240,Bhiwani,"1,69,531",Haryana
+241,Berhampore,"1,60,143",West Bengal
+242,Ambala,"1,39,279",Haryana
+243,Morbi,"1,45,719",Gujarat
+244,Fatehpur,"1,51,757",Uttar Pradesh
+245,Raebareli,"1,69,333",Uttar Pradesh
+246,"Khora, Ghaziabad",―,Uttar Pradesh
+247,Chittoor[25],"1,52,654",Andhra Pradesh
+248,Bhusawal,"1,72,372",Maharashtra
+249,Orai,"1,39,318",Uttar Pradesh
+250,Bahraich,"1,68,323",Uttar Pradesh
+251,Phusro,"83,463",Jharkhand
+252,Vellore,"1,77,230",Tamil Nadu
+253,Mehsana,"1,41,453",Gujarat
+254,Raiganj,"1,65,212",West Bengal
+255,Sirsa,"1,60,735",Haryana
+256,Danapur,"1,31,176",Bihar
+257,Serampore,"1,97,857",West Bengal
+258,Sultan Pur Majra,"1,64,426",Delhi
+259,Guna,"1,37,175",Madhya Pradesh
+260,Jaunpur,"1,60,055",Uttar Pradesh
+261,Panvel,"1,04,058",Maharashtra
+262,Shivpuri,"1,46,892",Madhya Pradesh
+263,Surendranagar Dudhrej,"1,56,161",Gujarat
+264,Unnao,"1,44,662",Uttar Pradesh
+265,Chinsurah,"1,70,201",West Bengal
+266,Alappuzha,"1,77,029",Kerala
+267,Kottayam,"1,29,894",Kerala
+268,Machilipatnam,"1,79,353",Andhra Pradesh
+269,Shimla,"1,42,555",Himachal Pradesh
+270,Midnapore,"1,49,768",West Bengal
+271,Adoni,―,Andhra Pradesh
+272,Udupi,―,Karnataka
+273,Katihar,"1,15,169",Bihar
+274,Proddatur,"86,896",Andhra Pradesh
+275,Budaun,"1,48,029",Uttar Pradesh
+276,Mahbubnagar,–,Telangana
+277,Saharsa[26],"1,25,167",Bihar
+278,Dibrugarh,"1,37,661",Assam
+279,Jorhat,"1,12,026",Assam
+280,Hazaribagh,"1,27,243",Jharkhand
+281,Hindupur,―,Andhra Pradesh
+282,Nagaon,"1,23,265",Assam
+283,Hajipur[27],"1,19,412",Bihar
+284,Sasaram[28],"1,31,172",Bihar
+285,Giridih,―,Jharkhand
+286,Bhimavaram,―,Andhra Pradesh
+287,Port Blair,—,Andaman and Nicobar Islands UT
+288,Kumbakonam,"1,44,021",Tamil Nadu
+289,Bongaigaon,"1,01,213",Assam
+290,Dehri[28],"1,19,057",Bihar
+291,Madanapalle,―,Andhra Pradesh
+292,Siwan[29],"1,09,919",Bihar
+293,Bettiah[30],"1,16,670",Bihar
+294,Ramgarh,"73,455",Jharkhand
+295,Tinsukia,"1,01,957",Assam
+296,Guntakal,―,Andhra Pradesh
+297,Srikakulam,―,Andhra Pradesh
+298,Motihari[31],"1,00,683",Bihar
+299,Dharmavaram,―,Andhra Pradesh
+300,Medininagar,―,Jharkhand
+301,Gudivada,―,Andhra Pradesh
+302,Phagwara,―,Punjab
+303,Pudukkottai,―,Tamil Nadu
+304,Hosur,"1,02,000",Tamil Nadu
+305,Narasaraopet,―,Andhra Pradesh
+306,Suryapet,"94,585",Telangana
+307,Miryalaguda,"91,395",Telangana
+308,Anantnag,―,Jammu and Kashmir
+309,Tadipatri,―,Andhra Pradesh
+310,Karaikudi,"86,596",Tamil Nadu
+311,Kishanganj[32],"85,590",Bihar
+312,Jamalpur[33],"96,983",Bihar
+313,Ballia,―,Uttar Pradesh
+314,Kavali,―,Andhra Pradesh
+315,Tadepalligudem,―,Andhra Pradesh
+316,Amaravati,―,Andhra Pradesh
+317,Buxar[34],"83,168",Bihar
+318,Tezpur,"83,028",Assam
+319,Jehanabad[35],"81,503",Bihar
+320,Aurangabad[36],"79,393",Bihar
+321,Gangtok,"29,354",Sikkim
+322,Vasco Da Gama,―,Goa
