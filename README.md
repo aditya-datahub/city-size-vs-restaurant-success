@@ -38,7 +38,6 @@ City size has a measurable impact on restaurant success.
 ---
 
 ## Project Structure
-
 ```text
 city-size-vs-restaurant-success/
 ├── notebooks/
@@ -48,15 +47,16 @@ city-size-vs-restaurant-success/
 │
 ├── data/
 │   ├── raw/
-│   │   ├── cities.xlsx
-│   │   └── zomato.xlsx
+│   │   ├── cities.csv
+│   │   └── zomato.csv
 │   │
 │   └── cleaned/
-│       ├── cities_cleaned.xlsx
-│       ├── zomato_cleaned.xlsx
-│       └── merged_data.xlsx
+│       ├── cities_cleaned.csv
+│       ├── zomato_cleaned.csv
+│       └── merged.csv
 │
 └── README.md
+```
 
 ---
 
@@ -68,6 +68,3 @@ city-size-vs-restaurant-success/
 - Jupyter Notebook
 
 ---
-
-## Author
-**Aditya Sharma**
