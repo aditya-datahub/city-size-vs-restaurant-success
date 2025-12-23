@@ -38,16 +38,23 @@ City size has a measurable impact on restaurant success.
 ---
 
 ## Project Structure
+
+```text
 city-size-vs-restaurant-success/
-│
 ├── notebooks/
-│ ├── 01_city_cleaning.ipynb
-│ ├── 02_zomato_cleaning.ipynb
-│ └── 03_city_size_vs_success_analysis.ipynb
+│   ├── 01_city_cleaning.ipynb
+│   ├── 02_zomato_cleaning.ipynb
+│   └── 03_city_size_vs_success_analysis.ipynb
 │
 ├── data/
-│ ├── raw/
-│ └── cleaned/
+│   ├── raw/
+│   │   ├── cities.xlsx
+│   │   └── zomato.xlsx
+│   │
+│   └── cleaned/
+│       ├── cities_cleaned.xlsx
+│       ├── zomato_cleaned.xlsx
+│       └── merged_data.xlsx
 │
 └── README.md
 
